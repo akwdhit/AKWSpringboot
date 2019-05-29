@@ -9,4 +9,4 @@ In order to run these apps, you need to:
 
 or
 
-you might use akwRun.bat, I prepare it for us. :)
+you might use akwRun.bat, I prepared it for us. :)
