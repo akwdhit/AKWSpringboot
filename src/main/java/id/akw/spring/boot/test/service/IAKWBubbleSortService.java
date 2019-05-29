@@ -1,7 +1,7 @@
 package id.akw.spring.boot.test.service;
 
 /**
- * @author kresna1
+ * @author adhityo.kresno (AKW)
  *
  */
 public interface IAKWBubbleSortService {
