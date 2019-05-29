@@ -1,0 +1,6 @@
+/.gradle
+/.mvn
+/.settings
+/bin
+/build
+gradle/
