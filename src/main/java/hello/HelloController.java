@@ -3,7 +3,14 @@ package hello;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+/**
+ * aDefault container
+ * 
+ * @author adhityo.kresno (AKW)
+ *
+ */
+// aIn order to call it outside your spring boot runner, then you need to define the name to be able to be located by the context
+@RestController("HelloController")
 public class HelloController {
 
 	/**
